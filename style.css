@@ -1,13 +1,33 @@
-#main{
-    text-align: center;
+*{
+    background-color:#E7EFC7;
 }
-
-div{
+ .main{
+    text-align: center;
+    background-color:#8A784E;
+}
+div {
     border: 2px solid black;
     margin: 5px;
    text-align: center;
-   background-color: red;
+   border: 2px solid #3B3B1A;
+   
 }
-*{
-    background-color: #FFFFED;
+a{
+    display:block;
+    background-color:#AEC8A4;
+    color: black;
+    text-align:center;
+    padding: 15px;
+   
+}
+.des{
+    background-color:#8A784E;
+    text-align:center;
+}
+.home{
+    font-weight: bold;
+    margin: 0 550px;
+}
+span{
+    font-weight: bold;
 }
