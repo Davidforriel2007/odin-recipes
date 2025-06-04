@@ -1,0 +1,13 @@
+#main{
+    text-align: center;
+}
+
+div{
+    border: 2px solid black;
+    margin: 5px;
+   text-align: center;
+   background-color: red;
+}
+*{
+    background-color: #FFFFED;
+}
